@@ -1,36 +1,42 @@
-# Declaração de uso de IA
+# Declaração de Uso de Inteligência Artificial e Condução do Projeto
 
-## Ferramenta utilizada
+## 1. Ferramenta de Apoio
 
-- Ferramenta: OpenAI Codex.
-- Modelo: GPT-5, conforme identificação disponibilizada pela ferramenta durante a sessão.
+- **Ferramenta:** OpenAI Codex.
+- **Finalidade:** Apoio técnico durante as etapas de análise, implementação, revisão, validação e documentação do projeto.
 
-## Como a IA foi utilizada
+## 2. Aplicação da Inteligência Artificial
 
-A IA foi utilizada como ferramenta de apoio durante o desenvolvimento e a validação da solução. Seu uso incluiu:
+A inteligência artificial foi utilizada como ferramenta de apoio ao processo de desenvolvimento, contribuindo para a investigação de problemas técnicos, implementação de correções, elaboração de testes automatizados e revisão da documentação.
 
-- análise do README, do código-fonte, dos testes e dos dados fornecidos;
-- apoio na investigação dos defeitos e identificação de suas causas;
-- sugestões de organização da estrutura do projeto, posteriormente autorizadas;
-- implementação técnica das correções definidas durante o trabalho;
-- elaboração de testes adicionais, preservando os testes originalmente fornecidos;
-- execução e análise dos testes automatizados e do Ruff;
-- execução da aplicação com os arquivos de validação e o dataset completo;
-- apoio na elaboração da documentação técnica e dos registros de utilização da ferramenta.
+Sua utilização ocorreu de maneira orientada pelo candidato, a partir dos requisitos da atividade, das inconsistências identificadas no projeto, das regras de negócio e dos critérios de aceitação estabelecidos.
 
-## Participação do candidato
+A ferramenta auxiliou na execução de alterações técnicas e na verificação dos comportamentos implementados. As sugestões e modificações foram acompanhadas, analisadas e submetidas a validações antes de serem consideradas parte da entrega final.
 
-O candidato foi responsável pela condução do trabalho e pelas decisões relacionadas à solução, incluindo:
+## 3. Participação e Responsabilidades do Desenvolvedor
 
-- disponibilização do projeto e interpretação das instruções do desafio;
-- definição das restrições e dos critérios que deveriam ser atendidos;
-- acompanhamento da investigação dos problemas identificados;
-- análise dos diagnósticos e das soluções propostas pela ferramenta;
-- autorização das alterações na organização do projeto;
-- solicitação de validações e auditoria final;
-- acompanhamento dos resultados dos testes e da conferência dos requisitos;
-- responsabilidade pela revisão final, decisão de publicação no GitHub e envio da entrega.
+A condução do projeto envolveu a análise dos requisitos, a identificação de inconsistências, a definição dos comportamentos esperados e o acompanhamento das decisões técnicas, considerando também uma perspectiva de Product Ownership.
 
-As implementações de código e os testes adicionais descritos nesta declaração foram realizados com auxílio do Codex. O candidato conduziu o processo, definiu os critérios, acompanhou as alterações e permanece responsável pela revisão e pela entrega final.
+As principais responsabilidades assumidas compreenderam:
 
-A IA foi utilizada como ferramenta de apoio, não como substituta da responsabilidade do candidato pelo trabalho apresentado.
+- **Análise de requisitos e regras de negócio:** interpretação dos requisitos da atividade, identificação dos problemas existentes e definição dos critérios necessários para que a solução atendesse ao comportamento esperado.
+
+- **Visão de produto e organização da solução:** compreensão dos fluxos do sistema, avaliação das funcionalidades necessárias e orientação das alterações de acordo com os objetivos e as restrições do desafio.
+
+- **Direcionamento da implementação:** apresentação dos problemas identificados, definição dos resultados esperados, orientação das correções e análise das soluções implementadas com auxílio da ferramenta.
+
+- **Qualidade e estratégia de testes:** acompanhamento da elaboração dos cenários de teste, avaliação da cobertura dos requisitos e investigação de comportamentos que ainda precisavam de correção.
+
+- **Validação técnica:** conferência dos resultados obtidos com a amostra e o conjunto completo de dados, análise dos valores calculados e verificação da conformidade com as regras de negócio.
+
+- **Documentação e entrega:** revisão dos materiais de documentação, organização dos arquivos, acompanhamento do versionamento com Git e preparação da versão final do projeto.
+
+## 4. Considerações Finais
+
+O desenvolvimento foi conduzido a partir da análise crítica dos requisitos e da identificação dos problemas que comprometiam o comportamento esperado da aplicação.
+
+A inteligência artificial atuou como recurso de apoio à execução técnica, auxiliando na implementação das correções, na elaboração de testes e na documentação. A definição dos problemas a serem tratados, a orientação das alterações, o acompanhamento das validações e a avaliação dos resultados fizeram parte da atuação do candidato.
+
+A experiência envolveu competências relacionadas à análise de requisitos, compreensão de regras de negócio, visão de produto, acompanhamento técnico, qualidade de software e utilização responsável de ferramentas de inteligência artificial no ciclo de desenvolvimento.
+
+A responsabilidade pela avaliação final e pela entrega do projeto permaneceu com o candidato.
